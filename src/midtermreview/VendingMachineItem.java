@@ -15,7 +15,7 @@ import java.util.Scanner;
  * @author dancye, 2019
  */
 public class VendingMachineItem 
-{
+{//hi
     public double price;
     public static String [] candies = {"chocolate bar", "sour candy", "soft drink", "potato chips"};
     public VendingMachineItem()
